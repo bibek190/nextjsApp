@@ -1,4 +1,5 @@
-import Navigation from "./components/Navigation";
+import Navigation from "../../components/Navigation";
+import "./layout.js";
 
 import "@/app/globals.css";
 
